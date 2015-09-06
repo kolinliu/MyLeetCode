@@ -14,8 +14,6 @@ package com.lk;
  * you still see your function signature accepts a const char * argument, please
  * click the reload button to reset your code definition.
  * 
- * spoilers alert... click to show requirements for atoi.
- * 
  * Requirements for atoi:
  * 
  * The function first discards as many whitespace characters as necessary until
